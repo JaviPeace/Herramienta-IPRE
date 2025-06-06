@@ -11,10 +11,6 @@ def main():
     file_path = sys.argv[1]
     patron = sys.argv[2].capitalize()
 
-    # if not os.path.exists(file_path):
-    #     print(f"El archivo '{file_path}' no existe.")
-    #     sys.exit(1)
-
     patrones_validos = ["Composite", "Decorator", "Observer", "Singleton"]
     if patron not in patrones_validos:
         print(f"Patrón '{patron}' no es válido. Opciones: {', '.join(patrones_validos)}")
@@ -28,10 +24,19 @@ def main():
         print(f"No se encontró el módulo '{module_path}': {e}")
         sys.exit(1)
 
-    if hasattr(patron_module, "analizar"):
-        patron_module.analizar(file_path)
-    else:
+    if not hasattr(patron_module, "analizar"):
         print(f"El módulo '{module_path}' no tiene la función 'analizar'.")
+        sys.exit(1)
+
+    if os.path.isdir(file_path):
+        for root, _, files in os.walk(file_path):
+            for fname in files:
+                if fname.endswith(".py"):
+                    fpath = os.path.join(root, fname)
+                    print(f"\nAnalizando archivo: {fpath}")
+                    patron_module.analizar(fpath)
+    else:
+        patron_module.analizar(file_path)
 
 if __name__ == "__main__":
     main()
