@@ -13,7 +13,6 @@ class ReglaDecoratorMismaInterfaz(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca clases que heredan de la misma base que el componente
         bases = {}
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
@@ -34,7 +33,6 @@ class ReglaDecoratorComposicion(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca atributos de instancia que sean del tipo de la interfaz o componente
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
                 posibles_bases = [base.id for base in node.bases if isinstance(base, ast.Name)]
@@ -58,7 +56,6 @@ class ReglaDecoratorDelegacion(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca métodos que llaman a métodos del atributo referenciado
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
                 for stmt in node.body:
@@ -80,7 +77,6 @@ class ReglaDecoratorAnidado(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca si en el __init__ de un decorador se acepta un parámetro del mismo tipo que la clase
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
                 class_name = node.name
@@ -101,7 +97,6 @@ class ReglaUsoArrobaDecorator(Rule):
     def analyze(self, tree):
         self.warnings = []
         for node in ast.walk(tree):
-            # Detecta funciones decoradas con @decorator
             if isinstance(node, ast.FunctionDef) and node.decorator_list:
                 for deco in node.decorator_list:
                     if isinstance(deco, ast.Name):

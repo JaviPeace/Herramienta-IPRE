@@ -25,7 +25,6 @@ class HerramientaComposite(MoldeHerramienta):
             for node in walk(tree):
                 if isinstance(node, ClassDef):
                     patrones.append(("Composite", node.lineno))
-        # Aquí puedes agregar detección de otros patrones si lo deseas
         return patrones
 
 def analizar(path_archivo):

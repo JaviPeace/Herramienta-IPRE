@@ -13,7 +13,6 @@ class ReglaClaseComun(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca clases base que sean heredadas por otras clases
         bases = set()
         derived = set()
         for node in ast.walk(tree):
@@ -39,7 +38,6 @@ class ReglaCompuestoConColeccion(Rule):
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
                 for stmt in node.body:
-                    # Busca atributos de instancia que sean listas o similares
                     if isinstance(stmt, ast.FunctionDef) and stmt.name == "__init__":
                         for assign in stmt.body:
                             if isinstance(assign, ast.Assign):
@@ -77,7 +75,6 @@ class ReglaOperacionPolimorfica(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca métodos con el mismo nombre en diferentes clases
         metodos_por_clase = {}
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
@@ -86,7 +83,6 @@ class ReglaOperacionPolimorfica(Rule):
                     if isinstance(stmt, ast.FunctionDef):
                         metodos.add(stmt.name)
                 metodos_por_clase[node.name] = metodos
-        # Buscar métodos comunes en al menos dos clases
         metodo_comun = set()
         clases = list(metodos_por_clase.keys())
         for i in range(len(clases)):

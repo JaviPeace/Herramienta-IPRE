@@ -71,7 +71,6 @@ class ReglaNotificacionEnEstado(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca métodos que llaman a notify()
         for node in ast.walk(tree):
             if isinstance(node, ast.FunctionDef):
                 for stmt in ast.walk(node):
@@ -91,7 +90,6 @@ class ReglaFuncionCallbackObserver(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca atributos tipo lista llamados observers, listeners, callbacks, etc.
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
                 for stmt in node.body:
@@ -119,7 +117,6 @@ class ReglaNotificacionPorIteracion(Rule):
 
     def analyze(self, tree):
         self.warnings = []
-        # Busca métodos que iteran sobre una lista de observers/callbacks y los llaman
         for node in ast.walk(tree):
             if isinstance(node, ast.FunctionDef):
                 for stmt in node.body:
