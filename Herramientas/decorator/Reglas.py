@@ -18,10 +18,10 @@ class ReglaDecoratorMismaInterfaz(Rule):
             if isinstance(node, ast.ClassDef):
                 bases[node.name] = [base.id for base in node.bases if isinstance(base, ast.Name)]
         # Busca si hay al menos dos clases que comparten una base
-        for c1, b1 in bases.items():
-            for c2, b2 in bases.items():
-                if c1 != c2 and set(b1) & set(b2):
-                    self.warnings.append(Warning(self.name(), 1, f"Decorator '{c1}' implementa la misma interfaz que '{c2}' ({', '.join(set(b1) & set(b2))})."))
+        for clase1, base1 in bases.items():
+            for clase2, base2 in bases.items():
+                if clase1 != clase2 and set(base1) & set(base2):
+                    self.warnings.append(Warning(self.name(), 1, f"Decorator '{clase1}' implementa la misma interfaz que '{clase2}' ({', '.join(set(base1) & set(base2))})."))
                     return self.warnings
         self.warnings.append(Warning(self.name(), 1, "No se detectó que el decorator implemente la misma interfaz que el componente."))
         return self.warnings
@@ -82,7 +82,7 @@ class ReglaDecoratorAnidado(Rule):
                 class_name = node.name
                 for stmt in node.body:
                     if isinstance(stmt, ast.FunctionDef) and stmt.name == "__init__":
-                        for arg in stmt.args.args[1:]:  # saltar self
+                        for arg in stmt.args.args[1:]: 
                             if arg.arg.lower() == class_name.lower():
                                 self.warnings.append(Warning(self.name(), stmt.lineno, f"Decorador '{class_name}' permite anidamiento para funcionalidad acumulativa."))
                                 return self.warnings
