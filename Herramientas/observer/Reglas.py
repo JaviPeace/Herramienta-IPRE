@@ -131,6 +131,20 @@ class ReglaNotificacionPorIteracion(Rule):
         self.warnings.append(Warning(self.name(), 1, "No se detectó notificación por iteración sobre observadores."))
         return self.warnings
 
+def tiene_add_subscriber(tree):
+    from ast import FunctionDef, walk
+    for node in walk(tree):
+        if isinstance(node, FunctionDef) and node.name == "add_subscriber":
+            return True
+    return False
+
+def existe_archivo_subscriber(path_archivo):
+    import os
+    if not path_archivo:
+        return False
+    dir_path = os.path.dirname(path_archivo)
+    return os.path.isfile(os.path.join(dir_path, "Subscriber.py"))
+
 reglas_observer = [
     ReglaSubjectMetodos(),
     ReglaListaObservadores(),

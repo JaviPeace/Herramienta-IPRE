@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\bin\Debug\net8.0\VehicleRoutingValidator.exe
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\bin\Debug\net8.0\VehicleRoutingValidator.deps.json
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\bin\Debug\net8.0\VehicleRoutingValidator.runtimeconfig.json
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\bin\Debug\net8.0\VehicleRoutingValidator.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\bin\Debug\net8.0\VehicleRoutingValidator.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\refint\VehicleRoutingValidator.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\VehicleRoutingValidator.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Patrones\Simulacros\VehicleRoutingValidator\VehicleRoutingValidator\obj\Debug\net8.0\ref\VehicleRoutingValidator.dll
