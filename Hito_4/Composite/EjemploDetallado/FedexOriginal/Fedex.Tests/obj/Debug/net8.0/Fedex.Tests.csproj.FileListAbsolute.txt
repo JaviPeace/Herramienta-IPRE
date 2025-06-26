@@ -1,0 +1,404 @@
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Fedex.Tests
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.deps.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/testhost.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Te.A9CCEAFE.Up2Date
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/refint/Fedex.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 22/Actividad/City Tour/Fedex/Fedex.Tests/obj/Debug/net8.0/ref/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Fedex.Tests
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.deps.json
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.runtimeconfig.json
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/testhost.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/bin/Debug/net8.0/Fedex.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.AssemblyReference.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfoInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfo.cs
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.CoreCompileInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Te.A9CCEAFE.Up2Date
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/refint/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.genruntimeconfig.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/Fedex/Fedex.Tests/obj/Debug/net8.0/ref/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Fedex.Tests
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.deps.json
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.runtimeconfig.json
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/testhost.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.AssemblyReference.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfoInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfo.cs
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.CoreCompileInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Te.A9CCEAFE.Up2Date
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/refint/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.genruntimeconfig.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/ref/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Fedex.Tests
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.deps.json
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.runtimeconfig.json
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/testhost.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/bin/Debug/net8.0/Fedex.pdb
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.AssemblyReference.cache
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfoInputs.cache
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.AssemblyInfo.cs
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.csproj.CoreCompileInputs.cache
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Te.A9CCEAFE.Up2Date
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/refint/Fedex.Tests.dll
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.pdb
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/Fedex.Tests.genruntimeconfig.cache
+/Users/javipaz/Documents/Universidad/2024-1 Detallado /22º Fedex/FedexSolucionado/Fedex.Tests/obj/Debug/net8.0/ref/Fedex.Tests.dll

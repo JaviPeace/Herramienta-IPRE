@@ -1,0 +1,204 @@
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Photoshop.Tests
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.deps.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/testhost.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/SixLabors.ImageSharp.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photosho.19B91B22.Up2Date
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/refint/Photoshop.Tests.dll
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.pdb
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.genruntimeconfig.cache
+/home/rodrigo/Desktop/IIC2113/2024-1/Clases/Clase 21/Actividad/Photoshop/Photoshop.Tests/obj/Debug/net8.0/ref/Photoshop.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Photoshop.Tests
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.deps.json
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.runtimeconfig.json
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/testhost.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/SixLabors.ImageSharp.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/bin/Debug/net8.0/Photoshop.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.csproj.AssemblyReference.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.AssemblyInfoInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.AssemblyInfo.cs
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.csproj.CoreCompileInputs.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photosho.19B91B22.Up2Date
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/refint/Photoshop.Tests.dll
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.pdb
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/Photoshop.Tests.genruntimeconfig.cache
+/Users/javipaz/Documents/Universidad/Detallado de software/21º PhotoshopDecorado/Photoshop/Photoshop.Tests/obj/Debug/net8.0/ref/Photoshop.Tests.dll

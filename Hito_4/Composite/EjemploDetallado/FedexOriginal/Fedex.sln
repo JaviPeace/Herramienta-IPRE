@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fedex", "Fedex\Fedex.csproj", "{2C6EDC8C-16F2-4878-9DBB-9BDA5B73E29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fedex.Tests", "Fedex.Tests\Fedex.Tests.csproj", "{0EA6043E-57E5-4334-A7A0-D423AC18BC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6EDC8C-16F2-4878-9DBB-9BDA5B73E29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6EDC8C-16F2-4878-9DBB-9BDA5B73E29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6EDC8C-16F2-4878-9DBB-9BDA5B73E29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6EDC8C-16F2-4878-9DBB-9BDA5B73E29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA6043E-57E5-4334-A7A0-D423AC18BC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA6043E-57E5-4334-A7A0-D423AC18BC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA6043E-57E5-4334-A7A0-D423AC18BC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA6043E-57E5-4334-A7A0-D423AC18BC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
