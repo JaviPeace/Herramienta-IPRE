@@ -1,4 +1,4 @@
-# Crea 15 ejemplos de código en Python que parezcan utilizar el patrón de diseño Decorator pero que en realidad sean falsos positivos.
+# Crea 30 ejemplos de código en Python que parezcan utilizar el patrón de diseño Decorator pero que en realidad sean falsos positivos.
 
 # Los ejemplos deben:
 
