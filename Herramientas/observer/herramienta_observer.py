@@ -33,17 +33,25 @@ class HerramientaObserver(MoldeHerramienta):
         found_subscriber_file = existe_archivo_subscriber(path_archivo) if path_archivo else False
         print(f"Reglas OK: {reglas_ok}, found_add_subscriber: {found_add_subscriber}, found_subscriber_file: {found_subscriber_file}")
 
-        def tiene_notify_y_update(tree):
-            has_notify = False
-            has_update = False
+        def notify_llama_update(tree):
+            # Busca método notify/publish que itere sobre la lista de observadores y llame a update()
             for node in walk(tree):
                 if isinstance(node, FunctionDef) and ("notify" in node.name.lower() or "publish" in node.name.lower()):
-                    has_notify = True
-                if isinstance(node, FunctionDef) and "update" in node.name.lower():
-                    has_update = True
-            return has_notify and has_update
+                    for stmt in node.body:
+                        if isinstance(stmt, For):
+                            # El iterador debe ser self.observers o observers
+                            iter_expr = stmt.iter
+                            if (isinstance(iter_expr, Attribute) and "observer" in iter_expr.attr.lower()) or \
+                               (isinstance(iter_expr, Name) and "observer" in iter_expr.id.lower()):
+                                # Busca llamada a update() sobre el target del for
+                                for substmt in stmt.body:
+                                    if isinstance(substmt, Expr) and isinstance(substmt.value, Call):
+                                        func = substmt.value.func
+                                        if isinstance(func, Attribute) and func.attr == "update":
+                                            return True
+            return False
 
-        if (reglas_ok >= 2 or (found_add_subscriber and found_subscriber_file) or tiene_notify_y_update(tree)):
+        if (reglas_ok >= 2 or (found_add_subscriber and found_subscriber_file) or notify_llama_update(tree)):
             for node in walk(tree):
                 if isinstance(node, ClassDef):
                     patrones.append(("Observer", node.lineno))
