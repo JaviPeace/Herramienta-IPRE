@@ -76,7 +76,6 @@ class ReglaDecoratorComposicion(Rule):
                             if isinstance(assign, ast.Assign):
                                 for target in assign.targets:
                                     if isinstance(target, ast.Attribute):
-                                        # Busca asignaciones a self.<algo>
                                         if isinstance(assign.value, ast.Name) and assign.value.id in posibles_bases:
                                             self.warnings.append(Warning(self.name(), assign.lineno, f"Clase '{node.name}' contiene referencia a componente '{assign.value.id}'."))
                                             return self.warnings

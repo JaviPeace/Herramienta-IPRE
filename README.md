@@ -58,7 +58,7 @@ Test Observer
 | Test 6 | Estilo observable reactivo      | ✅ Sí                     | 3–15               |
 
 
-## Resultados testing Hito_4/
+##  📊 Resultados testing Hito_4/
 
 Para testear se hicieron 30 tests con el patrón incluido y 30 tests sin el patrón para cada patrón
 
@@ -69,13 +69,23 @@ Para testear se hicieron 30 tests con el patrón incluido y 30 tests sin el patr
 | Singleton | 30    | 0     | 0  | 100.0%    | 100%   | 100%     |
 | Observer  | 24    | 10    | 6  | 70.6%     | 80.0%  | 75.0%    |
 
-En conclusión:
-🔹 Decorator logra resultados excelentes (Precisión 100%, F1 96.5%), demostrando un detector sólido. Esta herramienta falló en los dos test que tenían varios archivos. 
-🔹 Composite mejora notablemente (F1 88.2%) gracias a menor FP.
-🔹 Singleton mantiene recall perfecto, pero precisión baja (50%), indicando muchos falsos positivos.
-🔹 Observer mantiene buen balance (F1 75%) con recall alto y precisión razonable. Esta fue la herramienta que tuvo menor rendimiento lo que se puede deber a la complejidad del patrón en relación a los otros.
+###  Conclusiones
+Decorator logra resultados excelentes (Precisión 100%, F1 96.5%), demostrando un detector sólido aunque falló en los dos tests que incluían varios archivos. Composite mejora notablemente (F1 88.2%) gracias a la reducción de falsos positivos. Singleton mantiene un recall perfecto pero con precisión baja (50%), lo que indica la presencia de muchos falsos positivos. Observer mantiene un buen balance (F1 75%) con un recall alto y una precisión razonable; sin embargo, fue la herramienta con menor rendimiento, lo que podría deberse a la mayor complejidad de este patrón en comparación con los demás.
 
-Los test respectivos que fueron errados por patrón fueron los siguientes
+### ⚙️ Análisis de errores
+- Decorator: Los FN ocurrieron en tests con múltiples archivos, indicando una limitación para detección en proyectos distribuidos.
+- Composite: Los FP se asocian a tests con métodos o colecciones de nombres similares (add, children), pero sin estructura recursiva real.
+- Singleton: Sin FP ni FN, lo que indica detección perfecta en este conjunto de tests.
+- Observer: Presenta más dificultades por la diversidad de formas de notificación y estructura, lo que sugiere priorizar su refinamiento.
+
+
+### 🛠️ Próximos pasos
+- Mejorar detección entre archivos para Decorator y Observer.
+- Añadir verificación semántica en Composite (uso recursivo real).
+- Registrar métricas de tiempo de análisis por archivo para evaluar eficiencia.
+- Testear en repositorios públicos para medir generalización.
+
+### Tests que fallaron:
 
 Composite/Tests_falsos_positivos
 - Test_3_Leaf_con_método_add_vacío
@@ -110,5 +120,6 @@ Observer/Tests_falsos_positivos
 - Test_22_Subject_con_lista_vacía_y_notify_sin_llamadas
 - Test_29_Subject_con_notify_sin_llamadas
 - Test_30_notify()_con_conteo_sin_update
+
 
 

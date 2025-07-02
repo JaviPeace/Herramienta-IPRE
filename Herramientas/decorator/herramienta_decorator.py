@@ -26,7 +26,6 @@ class HerramientaDecorator(MoldeHerramienta):
 
         uso_arroba_ok = uso_arroba_warning is not None
 
-        # Nueva heurística: detectar clases decoradoras clásicas
         es_decorator_clasico = es_clase_decorator(tree)
 
         # Si solo se cumple la primera regla (misma interfaz) y no las otras, no es patrón
