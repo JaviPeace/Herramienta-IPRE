@@ -4,6 +4,8 @@ def es_clase_decorator(tree):
     for node in ast.walk(tree):
         if isinstance(node, ast.ClassDef):
             # Busca si la clase tiene un atributo que almacena una instancia de otra clase
+            referencia_a_componente = False
+            delega_metodo = False
             for stmt in node.body:
                 if isinstance(stmt, ast.FunctionDef) and stmt.name == "__init__":
                     for assign in stmt.body:
@@ -12,9 +14,23 @@ def es_clase_decorator(tree):
                                 if isinstance(target, ast.Attribute):
                                     # Si asigna self.algo = algo (donde algo es un parámetro del __init__)
                                     if isinstance(assign.value, ast.Name):
-                                        # Verifica si el nombre está en los argumentos del __init__
+                                        # Solo cuenta si el parámetro es una variable, no un literal
                                         if assign.value.id in [arg.arg for arg in stmt.args.args if arg.arg != 'self']:
-                                            return True
+                                            referencia_a_componente = True
+                                    # Si asigna un literal (int, str, etc), NO es decorator
+                                    elif isinstance(assign.value, (ast.Constant, ast.Num, ast.Str)):
+                                        return False
+            # Busca si hay un método que delega la llamada a ese atributo
+            for stmt in node.body:
+                if isinstance(stmt, ast.FunctionDef):
+                    for substmt in ast.walk(stmt):
+                        if isinstance(substmt, ast.Call) and isinstance(substmt.func, ast.Attribute):
+                            if isinstance(substmt.func.value, ast.Attribute):
+                                # self.algo.metodo()
+                                if isinstance(substmt.func.value.value, ast.Name) and substmt.func.value.value.id == 'self':
+                                    delega_metodo = True
+            if referencia_a_componente and delega_metodo:
+                return True
     return False
 from pathlib import Path
 import sys

@@ -30,6 +30,16 @@ class HerramientaDecorator(MoldeHerramienta):
         # Nueva heurística: detectar clases decoradoras clásicas
         es_decorator_clasico = es_clase_decorator(tree)
 
+        # Si solo se cumple la primera regla (misma interfaz) y no las otras, no es patrón
+        if len(resultados) > 1 and all(
+            any("misma interfaz" in w.name.lower() and "no se detectó" not in w.description.lower() for w in warnings)
+            for i, warnings in enumerate(resultados[:1])
+        ) and all(
+            all("no se detectó" in w.description.lower() or "no se detectaron" in w.description.lower() for w in warnings)
+            for warnings in resultados[1:]
+        ):
+            return patrones
+
         if reglas_ok >= 1 or uso_arroba_ok or es_decorator_clasico:
             if uso_arroba_ok:
                 patrones.append(("Decorator", uso_arroba_warning.lineNumber))
