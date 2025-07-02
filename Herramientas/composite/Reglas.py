@@ -35,18 +35,50 @@ class ReglaCompuestoConColeccion(Rule):
 
     def analyze(self, tree):
         self.warnings = []
+        tiene_coleccion = False
         for node in ast.walk(tree):
             if isinstance(node, ast.ClassDef):
+                # Solo considerar clases que tengan métodos add/remove y una colección
+                tiene_add = any(isinstance(stmt, ast.FunctionDef) and stmt.name == "add" for stmt in node.body)
+                tiene_remove = any(isinstance(stmt, ast.FunctionDef) and stmt.name == "remove" for stmt in node.body)
+                coleccion_detectada = False
                 for stmt in node.body:
                     if isinstance(stmt, ast.FunctionDef) and stmt.name == "__init__":
                         for assign in stmt.body:
                             if isinstance(assign, ast.Assign):
                                 for target in assign.targets:
-                                    if isinstance(target, ast.Attribute) and isinstance(assign.value, (ast.List, ast.Call)):
-                                        self.warnings.append(Warning(self.name(), assign.lineno, f"Clase {node.name} contiene colección de hijos."))
-                                        return self.warnings
-        self.warnings.append(Warning(self.name(), 1, "No se detectó colección de componentes hijos en clases compuestas."))
+                                    if isinstance(target, ast.Attribute) and isinstance(assign.value, ast.List):
+                                        if all(isinstance(elt, ast.Str) for elt in assign.value.elts):
+                                            self.warnings.append(Warning(self.name(), assign.lineno, f"Clase {node.name} mantiene una lista de strings, no de componentes. Esto rompe la estructura recursiva del patrón Composite."))
+                                            return self.warnings
+                                        if not self.llama_metodo_polimorfico(node, target.attr):
+                                            self.warnings.append(Warning(self.name(), assign.lineno, f"Clase {node.name} contiene una colección pero no itera ni llama métodos polimórficos sobre sus hijos. Esto rompe la uniformidad del patrón Composite."))
+                                            return self.warnings
+                                        coleccion_detectada = True
+                                    elif isinstance(target, ast.Attribute) and isinstance(assign.value, ast.Call):
+                                        coleccion_detectada = True
+                # Solo marcar como válido si tiene colección y método add/remove
+                if coleccion_detectada and (tiene_add or tiene_remove):
+                    tiene_coleccion = True
+        if not tiene_coleccion:
+            self.warnings.append(Warning(self.name(), 1, "No se detectó colección de componentes hijos en clases compuestas. Ninguna clase maneja una colección de hijos junto con métodos add/remove."))
         return self.warnings
+
+    def llama_metodo_polimorfico(self, class_node, collection_name):
+        # Busca si hay un método que itere sobre la colección y llame a un método de sus elementos
+        for stmt in class_node.body:
+            if isinstance(stmt, ast.FunctionDef):
+                for substmt in ast.walk(stmt):
+                    if isinstance(substmt, ast.For):
+                        # for var in self.collection_name
+                        if (isinstance(substmt.iter, ast.Attribute)
+                            and substmt.iter.attr == collection_name):
+                            # Busca llamada a método sobre el iterador
+                            for call in ast.walk(substmt):
+                                if isinstance(call, ast.Call) and isinstance(call.func, ast.Attribute):
+                                    if isinstance(call.func.value, ast.Name) and call.func.value.id == substmt.target.id:
+                                        return True
+        return False
 
 class ReglaMetodosCompuesto(Rule):
     @classmethod
