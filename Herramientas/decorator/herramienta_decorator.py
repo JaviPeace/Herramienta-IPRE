@@ -1,6 +1,7 @@
 from ast import *
 from Moldes.MoldeHerramienta import MoldeHerramienta
-from Herramientas.decorator.Reglas import reglas_decorator
+from Herramientas.decorator.Reglas import reglas_decorator, es_clase_decorator
+
 
 class HerramientaDecorator(MoldeHerramienta):
     def __init__(self):
@@ -26,9 +27,16 @@ class HerramientaDecorator(MoldeHerramienta):
 
         uso_arroba_ok = uso_arroba_warning is not None
 
-        if reglas_ok >= 1 or uso_arroba_ok:
+        # Nueva heurística: detectar clases decoradoras clásicas
+        es_decorator_clasico = es_clase_decorator(tree)
+
+        if reglas_ok >= 1 or uso_arroba_ok or es_decorator_clasico:
             if uso_arroba_ok:
                 patrones.append(("Decorator", uso_arroba_warning.lineNumber))
+            elif es_decorator_clasico:
+                for node in walk(tree):
+                    if isinstance(node, ClassDef):
+                        patrones.append(("Decorator", node.lineno))
             else:
                 for node in walk(tree):
                     if isinstance(node, ClassDef):

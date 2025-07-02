@@ -1,3 +1,21 @@
+def es_clase_decorator(tree):
+    """Detecta si hay una clase decoradora clásica (hereda de otra clase y delega métodos)"""
+    import ast
+    for node in ast.walk(tree):
+        if isinstance(node, ast.ClassDef):
+            # Busca si la clase tiene un atributo que almacena una instancia de otra clase
+            for stmt in node.body:
+                if isinstance(stmt, ast.FunctionDef) and stmt.name == "__init__":
+                    for assign in stmt.body:
+                        if isinstance(assign, ast.Assign):
+                            for target in assign.targets:
+                                if isinstance(target, ast.Attribute):
+                                    # Si asigna self.algo = algo (donde algo es un parámetro del __init__)
+                                    if isinstance(assign.value, ast.Name):
+                                        # Verifica si el nombre está en los argumentos del __init__
+                                        if assign.value.id in [arg.arg for arg in stmt.args.args if arg.arg != 'self']:
+                                            return True
+    return False
 from pathlib import Path
 import sys
 import ast
