@@ -33,22 +33,7 @@ class HerramientaComposite(MoldeHerramienta):
 
 def analizar(path_archivo_o_directorio):
     herramienta = HerramientaComposite()
-
-    def obtener_bloques_a_procesar(path):
-        if os.path.isfile(path):
-            return [[path]]
-        bloques = []
-        bloques_set = set()
-        for root, dirs, files in os.walk(path):
-            bloque = tuple(sorted(os.path.join(root, f) for f in files if f.endswith('.py')))
-            if bloque and bloque not in bloques_set:
-                bloques.append(list(bloque))
-                bloques_set.add(bloque)
-        return bloques
-
-    bloques = obtener_bloques_a_procesar(path_archivo_o_directorio)
-    print(f"Analizando carpeta: {path_archivo_o_directorio}")
-    print(f"Bloques a procesar: {bloques}")
+    bloques = MoldeHerramienta.obtener_bloques_a_procesar(path_archivo_o_directorio)
 
     patrones_detectados = []
 
@@ -64,8 +49,7 @@ def analizar(path_archivo_o_directorio):
             if res:
                 patrones_detectados.extend(res if isinstance(res, list) else [res])
         else:
-            if archivos_importan_otros(bloque):
-                # Analizar bloque combinado
+            if MoldeHerramienta.archivos_importan_otros(bloque):
                 trees = []
                 for archivo in bloque:
                     with open(archivo, "r", encoding="utf-8") as f:
@@ -85,24 +69,3 @@ def analizar(path_archivo_o_directorio):
                         patrones_detectados.extend(res if isinstance(res, list) else [res])
 
     return patrones_detectados
-
-def archivos_importan_otros(bloque):
-    """Detecta si algún archivo importa a otro archivo del bloque"""
-    archivos_nombres = {os.path.splitext(os.path.basename(f))[0] for f in bloque}
-    
-    for archivo in bloque:
-        with open(archivo, "r", encoding="utf-8") as f:
-            source = f.read()
-        tree = ast.parse(source, filename=archivo)
-        for node in ast.walk(tree):
-            if isinstance(node, ast.Import):
-                for alias in node.names:
-                    # alias.name puede ser modulo sin extension, solo nombre base
-                    if alias.name in archivos_nombres:
-                        return True
-            elif isinstance(node, ast.ImportFrom):
-                if node.module is not None:
-                    modulo = node.module.split('.')[0]  # solo el primer nivel
-                    if modulo in archivos_nombres:
-                        return True
-    return False
