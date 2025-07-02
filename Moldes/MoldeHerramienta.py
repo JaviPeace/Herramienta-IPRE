@@ -14,6 +14,9 @@ class MoldeHerramienta:
             source = f.read()
         tree = parse(source)
 
+        return self.analizar_ast(tree)
+
+    def analizar_ast(self, tree):
         reglas = self.reglas_factory()
 
         if len(reglas) == 0:
@@ -31,8 +34,11 @@ class MoldeHerramienta:
         if patrones_detectados:
             for patron, linea in patrones_detectados:
                 print(f"Patrón {patron} detectado en la línea {linea}")
+            return patrones_detectados
         else:
             print("No se detectó el patrón.")
+            return []
 
     def evaluar_patrones(self, resultados, tree):
         raise NotImplementedError("Debe implementar evaluar_patrones en la herramienta concreta.")
+

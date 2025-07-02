@@ -3,6 +3,7 @@ from Moldes.MoldeHerramienta import MoldeHerramienta
 from Herramientas.composite.Reglas import reglas_composite
 import os
 import ast
+from collections import defaultdict, deque
 
 class HerramientaComposite(MoldeHerramienta):
     def __init__(self):
@@ -32,39 +33,76 @@ class HerramientaComposite(MoldeHerramienta):
 
 def analizar(path_archivo_o_directorio):
     herramienta = HerramientaComposite()
-    if os.path.isdir(path_archivo_o_directorio):
-        archivos_py = []
-        for root, _, files in os.walk(path_archivo_o_directorio):
-            for f in files:
-                if f.endswith('.py'):
-                    archivos_py.append(os.path.join(root, f))
-        patrones_detectados = []
-        import_relations = {os.path.basename(f): set() for f in archivos_py}
-        for archivo in archivos_py:
-            herramienta_result = herramienta.analizar(archivo)
-            if herramienta_result:
-                patrones_detectados.append(archivo)
-            # Analizar importaciones
-            with open(archivo, 'r', encoding='utf-8') as f:
-                tree = ast.parse(f.read(), filename=archivo)
-                for node in ast.walk(tree):
-                    if isinstance(node, ast.ImportFrom):
-                        if node.module:
-                            mod = node.module.split('.')[-1] + '.py'
-                            if mod in import_relations:
-                                import_relations[os.path.basename(archivo)].add(mod)
-                    elif isinstance(node, ast.Import):
-                        for alias in node.names:
-                            mod = alias.name.split('.')[-1] + '.py'
-                            if mod in import_relations:
-                                import_relations[os.path.basename(archivo)].add(mod)
-        # Verificar si hay importaciones cruzadas
-        hay_imports = any(import_relations[archivo] for archivo in import_relations)
-        if patrones_detectados and hay_imports:
-            print(f"La carpeta '{os.path.basename(path_archivo_o_directorio)}' cumple con el patrón Composite (hay archivos que se importan entre sí y se detectó el patrón en al menos uno de ellos).")
-        else:
-            print(f"La carpeta '{os.path.basename(path_archivo_o_directorio)}' NO cumple con el patrón Composite (faltan importaciones cruzadas o no se detectó el patrón en ningún archivo).")
-        return patrones_detectados
-    else:
-        return herramienta.analizar(path_archivo_o_directorio)
 
+    def obtener_bloques_a_procesar(path):
+        if os.path.isfile(path):
+            return [[path]]
+        bloques = []
+        bloques_set = set()
+        for root, dirs, files in os.walk(path):
+            bloque = tuple(sorted(os.path.join(root, f) for f in files if f.endswith('.py')))
+            if bloque and bloque not in bloques_set:
+                bloques.append(list(bloque))
+                bloques_set.add(bloque)
+        return bloques
+
+    bloques = obtener_bloques_a_procesar(path_archivo_o_directorio)
+    print(f"Analizando carpeta: {path_archivo_o_directorio}")
+    print(f"Bloques a procesar: {bloques}")
+
+    patrones_detectados = []
+
+    for i, bloque in enumerate(bloques, 1):
+        print(f"\n🔹 Analizando bloque {i}/{len(bloques)}:")
+        for f in bloque:
+            print(f" - {f}")
+
+        if len(bloque) == 1:
+            archivo = bloque[0]
+            print(f"\n--- Análisis de: {archivo} ---")
+            res = herramienta.analizar(archivo)
+            if res:
+                patrones_detectados.extend(res if isinstance(res, list) else [res])
+        else:
+            if archivos_importan_otros(bloque):
+                # Analizar bloque combinado
+                trees = []
+                for archivo in bloque:
+                    with open(archivo, "r", encoding="utf-8") as f:
+                        codigo = f.read()
+                    tree = ast.parse(codigo, filename=archivo)
+                    trees.extend(tree.body)
+                combined_tree = ast.Module(body=trees, type_ignores=[])
+                res = herramienta.analizar_ast(combined_tree)
+                if res:
+                    patrones_detectados.extend(res)
+            else:
+                # Analizar cada archivo por separado porque no se importan entre ellos
+                for archivo in bloque:
+                    print(f"\n--- Análisis de: {archivo} ---")
+                    res = herramienta.analizar(archivo)
+                    if res:
+                        patrones_detectados.extend(res if isinstance(res, list) else [res])
+
+    return patrones_detectados
+
+def archivos_importan_otros(bloque):
+    """Detecta si algún archivo importa a otro archivo del bloque"""
+    archivos_nombres = {os.path.splitext(os.path.basename(f))[0] for f in bloque}
+    
+    for archivo in bloque:
+        with open(archivo, "r", encoding="utf-8") as f:
+            source = f.read()
+        tree = ast.parse(source, filename=archivo)
+        for node in ast.walk(tree):
+            if isinstance(node, ast.Import):
+                for alias in node.names:
+                    # alias.name puede ser modulo sin extension, solo nombre base
+                    if alias.name in archivos_nombres:
+                        return True
+            elif isinstance(node, ast.ImportFrom):
+                if node.module is not None:
+                    modulo = node.module.split('.')[0]  # solo el primer nivel
+                    if modulo in archivos_nombres:
+                        return True
+    return False
